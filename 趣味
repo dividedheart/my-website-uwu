@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Hobbies</title>
+    </head>
+    
+    <style>
+        nav {
+            background-color: #5500ff;
+            padding: 10px;
+            
+        }
+        
+        nav a {
+            color: white;
+            margin: 15px;
+            text-decoration: none;
+            font-size: 18px;
+        }
+        
+        nav a:hover {
+            color: #262321;
+        }
+        
+        txt {
+            color: white;
+        }
+        
+        body{
+        background-image: url('https://i.pinimg.com/originals/1a/a2/00/1aa2008c04d15f46d38b797cb1452ed4.gif');
+        background-size: cover;
+        
+    
+    
+        height: 100vh;
+        padding:0;
+        margin:0;
+        }
+        
+         footer {
+            background-color: #5500ff;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+    </style>
+    
+    <nav>
+    <a href="home.html">Home</a> <txt>:||:</txt>
+    <a href="about.html">About Me</a> <txt>:||:</txt>
+    <a href="hobbies.html">Hobbies [You are Here]</a> <txt>:||:</txt>
+    <a href="contact.html">Ring me~</a>
+    </nav>
+    
+   <img src="https://media1.tenor.com/m/EdKm_EPMwbAAAAAd/fat-cat-trying-to-scratch.gif" alt=wawa> 
+   <img src="https://media.tenor.com/V2oNF07clt0AAAAi/horse-falling.gif" alt=wowo>
+   <img src="https://media.tenor.com/7FOmDEv5ajQAAAAM/arcaea-arcaea-insight.gif" alt=wiwi> 
+   <img src="https://media.tenor.com/2N7W1jgAFxAAAAAM/phigros.gif" alt=wuwu>
+   <footer>
+            <txt>@ 2026 俺のウェブサイト</txt>
+            <txt>Email: boojayna@gawkgawk.com</txt>
+        </footer>
+</html>
