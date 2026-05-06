@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+ <nav>
+    <a href="home.html">Home</a> <txt>:||:</txt>
+    <a href="about.html">About Me</a> <txt>:||:</txt>
+    <a href="hobbies.html">Hobbies</a> <txt>:||:</txt>
+    <a href="contact.html">Ring me~ [Already!]</a>
+    </nav>
+
+<form>
+    <label>Your Name:</label><br>
+    <input type="text"><br><br>
+    
+    <label>Your Email:</label><br>
+    <input type="email"><br><br>
+    
+    <label>Your Message:</label><br>
+    <textarea></textarea><br><br>
+    
+    <button>Submit</button>
+</form>
+
+<footer>
+            <txt>@ 2026 俺のウェブサイト</txt>
+            <txt>Email: boojayna@gawkgawk.com</txt>
+        </footer>
+
+<style>
+        nav {
+            background-color: #5500ff;
+            padding: 10px;
+            
+        }
+        
+        nav a {
+           color: white;
+        }
+        
+        nav a:hover {
+            color: #262321;
+        }
+        
+        txt {
+            color: white;
+            
+        }
+        
+        label {
+           color: #5500ff; 
+        }
+        
+        button {
+            color: #5500ff;
+        }
+        
+        body{
+        background-image: url('https://i.pinimg.com/originals/1a/a2/00/1aa2008c04d15f46d38b797cb1452ed4.gif');
+        background-size: cover;
+        
+    
+    
+        height: 100vh;
+        padding:0;
+        margin:0;
+        }
+        
+         footer {
+            background-color: #5500ff;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+</style>
