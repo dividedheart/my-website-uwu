@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>About Me</title>
-</head>  
+    <head>
+        <title>My First Website</title>
+    </head>
 
- <style>
+    <body>
+        
+        <style>
         nav {
             background-color: #5500ff;
             padding: 10px;
@@ -12,10 +14,7 @@
         }
         
         nav a {
-            color: white;
-            margin: 15px;
-            text-decoration: none;
-            font-size: 18px;
+           color: white;
         }
         
         nav a:hover {
@@ -24,19 +23,16 @@
         
         txt {
             color: white;
+            
         }
         
-        h1 {
-            color: #5500ff;
-        }
+        h1 { color: #5500ff; }
         
-        p { 
-            color: #5500ff;
-        }
+        p { color: #5500ff; }
         
-        li {
-            color: #5500ff;
-        }
+        h2 { color: #5500ff; }
+        
+        li { color: #5500ff; }
         
         body{
         background-image: url('https://i.pinimg.com/originals/1a/a2/00/1aa2008c04d15f46d38b797cb1452ed4.gif');
@@ -49,36 +45,45 @@
         margin:0;
         }
         
-         footer {
+        footer {
             background-color: #5500ff;
             color: white;
             text-align: center;
             padding: 15px;
             margin-top: 20px;
+        }
     </style>
     
     <nav>
-    <a href="home.html">Home</a> <txt>:||:</txt>
-    <a href="about.html">About Me [You're Here]</a> <txt>:||:</txt>
+    <a href="home.html">Home [You're Here]</a> <txt>:||:</txt>
+    <a href="about.html">About Me</a> <txt>:||:</txt>
     <a href="hobbies.html">Hobbies</a> <txt>:||:</txt>
     <a href="contact.html">Ring me~</a>
-    <a href="miracle.html">:||:</a>
     </nav>
-
-<body>
-    
-    <h1>About Me</h1>  
-    <p>This is who I am:</p>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybTh5N2lpNzFlcmJobHVqMzF3N25rbmpiOHd3bWh4a3U2OXc4eThibSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26xBHklzttKHVB7bO/giphy.gif" alt=">_<" width="400" height="400">
-     <ul>
-        <li>list item</li>
-        <li>ɯǝʇᴉ ʇsᴉl</li>
-    </ul>
-    
-    <footer>
+        
+        <h1>Hello World</h1>
+        <p>This is my first webpage (lie)</p>
+        
+        <h2>About  Me</h2>
+        <ul>
+            <li>I'm cute</li>
+            <li>I'm handsome</li>
+            <li>I'm smart</li>
+            <li>Follow my insta: @anarchy_daddy</li>
+        </ul>
+        <h2>wawa</h2>
+        <p> The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark, get ready, start.</p>
+        <ul>
+            <li>vi</li>
+            <li>veri</li>
+            <li>universum</li>
+            <li>vivus</li>
+            <li>vici</li>
+        </ul>
+        <img src="https://i.makeagif.com/media/1-18-2023/GxqkQc.gif" alt="o no no you don't go there 💜" width="200" height="200">'
+        <footer>
             <txt>@ 2026 俺のウェブサイト</txt>
             <txt>Email: boojayna@gawkgawk.com</txt>
         </footer>
-    
-</body>
+    </body>
 </html>
